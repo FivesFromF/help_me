@@ -1,0 +1,15 @@
+[submodule "help_me_ai_face_poc"]
+	path = help_me_ai_face_poc
+	url = https://github.com/FivesFromF/help_me_ai_face_poc.git
+[submodule "help_me_app"]
+	path = help_me_app
+	url = https://github.com/FivesFromF/help_me_app.git
+[submodule "help_me_backend"]
+	path = help_me_backend
+	url = https://github.com/FivesFromF/help_me_backend.git
+[submodule "help_me_context"]
+	path = help_me_context
+	url = https://github.com/FivesFromF/help_me_context.git
+[submodule "help_me_web"]
+	path = help_me_web
+	url = https://github.com/FivesFromF/help_me_web.git
